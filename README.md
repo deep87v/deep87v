@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @deep87v
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Deepchandra
+- 👀 I’m interested in Learning Automation
+- 🌱 I’m currently learning Terraform
+- 💞️ I’m looking to collaborate on Anything
+- 📫 How to reach me deep111444@gmail.com
 
 <!---
 deep87v/deep87v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
